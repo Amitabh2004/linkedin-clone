@@ -90,7 +90,7 @@ void printGraph(){
         cout<<endl;
     }
 }
-
+//For clearing memory
 void clearMemory(){
     for(auto user : linkedin_user){
         delete user.second;
