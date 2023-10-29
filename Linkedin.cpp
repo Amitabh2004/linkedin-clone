@@ -20,7 +20,7 @@ struct LinkedinUser{
         this -> education = education;
         this -> experience = experience;
     }
-
+    //For printing the profile
     void print(){
         cout<<"--------------------------------------------------------------------"<<endl;
         cout<<"--------------------------------------------------------------------"<<endl;
